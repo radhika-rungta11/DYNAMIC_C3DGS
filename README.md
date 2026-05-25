@@ -1,0 +1,1 @@
+# DYNAMIC_C3DGS
