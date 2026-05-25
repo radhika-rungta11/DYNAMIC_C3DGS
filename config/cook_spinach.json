@@ -6,6 +6,6 @@
   "save_iterations": [7000, 10000, 12000, 25000, 30000],
   "test_iteration": 25000,
   "duration": 50,
-  "rdpip": "train_stg_full",
+  "rdpip": "train_stg_full", 
   "rgbfunction": "sandwich"
 }
