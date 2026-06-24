@@ -1,6 +1,6 @@
 import sys
 import sqlite3 
-import numpy as np
+import numpy as np  
 
 # source: https://github.com/colmap/colmap/blob/dev/scripts/python/database.py
 IS_PYTHON3 = sys.version_info[0] >= 3
