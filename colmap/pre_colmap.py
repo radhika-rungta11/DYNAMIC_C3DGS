@@ -1,5 +1,5 @@
 import sys
-import sqlite3
+import sqlite3 
 import numpy as np
 
 # source: https://github.com/colmap/colmap/blob/dev/scripts/python/database.py
